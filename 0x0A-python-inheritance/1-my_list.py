@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-contains the MyList class
+contains the Mylist class
 """
 
 
