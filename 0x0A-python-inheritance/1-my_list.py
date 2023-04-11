@@ -1,12 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 contains the Mylist class
 """
 
 
-class MyList(list):
+class Mylist(list):
     """Implements sorted printing for the built-in list class."""
 
     def print_sorted(self):
-        """Print a list in sorted ascending order."""
+        """print a list in sorted ascending order."""
         print(sorted(self))
